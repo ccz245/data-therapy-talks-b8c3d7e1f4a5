@@ -1,0 +1,7 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#6c5ce7"/>
+  <circle cx="300" cy="300" r="220" stroke="#a29bfe" stroke-width="15" fill="none" stroke-opacity="0.4"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif" font-size="80" font-weight="bold">THERAPY</text>
+  <text x="50%" y="62%" dominant-baseline="middle" text-anchor="middle" fill="#a29bfe" font-family="Arial, sans-serif" font-size="60" letter-spacing="5">TALKS</text>
+  <path d="M200 480 Q300 420 400 480" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

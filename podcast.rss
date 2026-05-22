@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Therapy Talks</title>
+        <itunes:title>Therapy Talks</itunes:title>
+        <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+        <link>https://github.com/ccz245/data-therapy-talks-b8c3d7e1f4a5</link>
+        <language>en-us</language>
+        <itunes:author>ccz245</itunes:author>
+        
+    </channel>
+</rss>
