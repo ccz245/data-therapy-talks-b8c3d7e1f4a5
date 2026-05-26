@@ -9,54 +9,64 @@
         <itunes:author>ccz245</itunes:author>
         
         <item>
-            <title>ep01_attachment_theory_and_eft</title>
-            <description>AI Playbook</description>
-            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <title>The Foundation of Attachment in Emotionally Focused Therapy (EFT)</title>
+            <description>Exploring how attachment theory serves as the map for the EFT therapist.</description>
+            <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep01_attachment_theory_and_eft.mp3" length="15214688" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_01</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>Exploring how attachment theory serves as the map for the EFT therapist.</itunes:summary>
         </item>
         <item>
-            <title>ep02_eft_and_gottman_integration</title>
-            <description>AI Playbook</description>
-            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <title>Bridging the Gap: Integrating EFT and the Gottman Method</title>
+            <description>How to combine two of the most popular models of couple therapy.</description>
+            <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep02_eft_and_gottman_integration.mp3" length="13938240" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_02</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>How to combine two of the most popular models of couple therapy.</itunes:summary>
         </item>
         <item>
-            <title>ep03_negative_cycles_and_deescalation</title>
-            <description>AI Playbook</description>
-            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <title>Mapping the Dance: De-escalating Negative Interaction Patterns</title>
+            <description>Understanding the cycle of conflict and how to break it.</description>
+            <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep03_negative_cycles_and_deescalation.mp3" length="12725741" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_03</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>Understanding the cycle of conflict and how to break it.</itunes:summary>
         </item>
         <item>
-            <title>ep04_neurobiology_and_polyvagal_eft</title>
-            <description>AI Playbook</description>
-            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <title>The Body’s Role in Bond: EFT, Polyvagal Theory, and Neurobiology</title>
+            <description>The neurobiological basis of relationship distress and repair.</description>
+            <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep04_neurobiology_and_polyvagal_eft.mp3" length="13014760" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_04</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>The neurobiological basis of relationship distress and repair.</itunes:summary>
         </item>
         <item>
-            <title>ep05_the_eft_tango_and_restructuring</title>
-            <description>AI Playbook</description>
-            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <title>The EFT Tango: Mastering the Moves of Emotional Change</title>
+            <description>The core process of restructuring interactions in EFT.</description>
+            <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep05_the_eft_tango_and_restructuring.mp3" length="12890626" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_05</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
-            <itunes:summary>AI Playbook</itunes:summary>
+            <itunes:summary>The core process of restructuring interactions in EFT.</itunes:summary>
+        </item>
+        <item>
+            <title>EFT and Sexual Intimacy</title>
+            <description>Integrating attachment safety with erotic desire: mapping the sexual attachment cycle.</description>
+            <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep09_sexual_intimacy_eft.mp3" length="14325689" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_09</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Integrating attachment safety with erotic desire: mapping the sexual attachment cycle.</itunes:summary>
         </item>
     </channel>
 </rss>
