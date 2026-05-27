@@ -188,5 +188,55 @@
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
             <itunes:summary>Moving from critical protest to the direct expression of attachment needs.</itunes:summary>
         </item>
+        <item>
+            <title>EFFT for Blended Families and Step-Parenting</title>
+            <description>Navigating loyalty binds and competing attachments in stepfamily systems.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep21_blended_families_efft.mp3" length="10994449" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_21</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Navigating loyalty binds and competing attachments in stepfamily systems.</itunes:summary>
+        </item>
+        <item>
+            <title>EFT for Chronic Illness in Couples</title>
+            <description>Transforming illness from an attachment threat into a shared "team" challenge.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep22_eft_and_chronic_illness.mp3" length="14554208" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_22</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Transforming illness from an attachment threat into a shared "team" challenge.</itunes:summary>
+        </item>
+        <item>
+            <title>Neuro-Affirming EFT for ADHD and Autism</title>
+            <description>Translating between different neurological operating systems to foster secure bonds.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep23_neuroaffirming_eft.mp3" length="15992405" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_23</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Translating between different neurological operating systems to foster secure bonds.</itunes:summary>
+        </item>
+        <item>
+            <title>Inclusive EFT for Queer and Trans Couples</title>
+            <description>Using attachment as a safe haven against minority stress and external oppression.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep24_queer_trans_inclusive_eft.mp3" length="14307821" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_24</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Using attachment as a safe haven against minority stress and external oppression.</itunes:summary>
+        </item>
+        <item>
+            <title>The EFT Therapist's Self-Care</title>
+            <description>Managing "Self-of-Therapist" loops to stay regulated in high-conflict sessions.</description>
+            <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep25_therapist_self_care_eft.mp3" length="12838590" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_25</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Managing "Self-of-Therapist" loops to stay regulated in high-conflict sessions.</itunes:summary>
+        </item>
     </channel>
 </rss>
