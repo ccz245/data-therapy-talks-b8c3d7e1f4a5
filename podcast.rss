@@ -578,5 +578,45 @@
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
             <itunes:summary>Therapy Talks</itunes:summary>
         </item>
+        <item>
+            <title>ep60_ch08_promoting_acceptance</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep60_ch08_promoting_acceptance.mp3" length="13663014" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_60</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep68_ch12_the_parents_shield</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep68_ch12_the_parents_shield.mp3" length="13382459" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_68</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep70_ch13_forgiveness_resolution</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep70_ch13_forgiveness_resolution.mp3" length="13773356" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_70</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep71_ch14_stage1_transcript_deescalation</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep71_ch14_stage1_transcript_deescalation.mp3" length="14446688" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_71</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
     </channel>
 </rss>
