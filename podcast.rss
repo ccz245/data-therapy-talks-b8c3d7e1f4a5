@@ -269,6 +269,16 @@
             <itunes:summary>Therapy Talks</itunes:summary>
         </item>
         <item>
+            <title>ep29_efit_attachment_framework_playbook</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep29_efit_attachment_framework_playbook.mp3" length="14431641" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_29</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
             <title>ep30_efit_are_alliance_sandy</title>
             <description>Therapy Talks</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
@@ -379,11 +389,31 @@
             <itunes:summary>Therapy Talks</itunes:summary>
         </item>
         <item>
+            <title>ep46_ch01_biological_hazard</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep46_ch01_biological_hazard.mp3" length="14260173" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_46</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
             <title>ep46_efit_change_events</title>
             <description>Therapy Talks</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep46_efit_change_events.mp3" length="12464307" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_46</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep47_ch02_ten_tenets</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep47_ch02_ten_tenets.mp3" length="11895360" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_47</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
             <itunes:summary>Therapy Talks</itunes:summary>
@@ -414,6 +444,46 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep49_efit_full_integration_playbook.mp3" length="14983347" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_49</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep50_ch03_systemic_dance</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep50_ch03_systemic_dance.mp3" length="13758622" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_50</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep51_ch04_tango_playbook</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep51_ch04_tango_playbook.mp3" length="13079961" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_51</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep52_ch04_assembly_emotion</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep52_ch04_assembly_emotion.mp3" length="15360764" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_52</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep53_ch05_rissc_voice</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep53_ch05_rissc_voice.mp3" length="10653708" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_53</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
             <itunes:summary>Therapy Talks</itunes:summary>
