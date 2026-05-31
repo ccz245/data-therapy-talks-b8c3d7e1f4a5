@@ -619,6 +619,16 @@
             <itunes:summary>Therapy Talks</itunes:summary>
         </item>
         <item>
+            <title>ep59_ch08_withdrawer_reengagement</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep59_ch08_withdrawer_reengagement.mp3" length="11397571" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_59</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
             <title>ep60_ch08_promoting_acceptance</title>
             <description>Therapy Talks</description>
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
@@ -684,6 +694,16 @@
             <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
             <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep66_ch11_the_therapists_tango.mp3" length="12650822" type="audio/mpeg"/>
             <guid isPermaLink="false">therapy-talks_66</guid>
+            <itunes:author>Therapy Talks</itunes:author>
+            <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
+            <itunes:summary>Therapy Talks</itunes:summary>
+        </item>
+        <item>
+            <title>ep67_ch12_the_family_dance</title>
+            <description>Therapy Talks</description>
+            <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+            <enclosure url="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/audio/ep67_ch12_the_family_dance.mp3" length="13349545" type="audio/mpeg"/>
+            <guid isPermaLink="false">therapy-talks_67</guid>
             <itunes:author>Therapy Talks</itunes:author>
             <itunes:image href="https://ccz245.github.io/data-therapy-talks-b8c3d7e1f4a5/cover.png"/>
             <itunes:summary>Therapy Talks</itunes:summary>
