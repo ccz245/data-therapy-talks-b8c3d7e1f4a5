@@ -1,0 +1,5 @@
+# Use Doppler config `dev` (full secrets). Do not use `dev_personal` (M365 only).
+setup:
+  - project: personal-dev
+    config: dev
+
